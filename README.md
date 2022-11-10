@@ -17,3 +17,4 @@ python3 assignment.py -l [link]
 I want to work on making this more universal as I might have to use it for other classes.
 This means changing the naming system as I probably won't have a directory full of subdirectories with numerical names.
 (Most likely adding a -n argument for the name of the directory to be created).
+This program is quite slow. I'll look for more ways to potentially optimize it as well.
